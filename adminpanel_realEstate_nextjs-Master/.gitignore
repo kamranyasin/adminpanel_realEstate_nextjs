@@ -1,0 +1,13 @@
+/node_modules
+/.next
+.cache
+/.cache
+.next/cache/webpack/client-production/0.pack
+.swc/
+.*.env
+node_modules/
+.next/**
+# Logs
+logs
+*.log
+npm-debug.log*
